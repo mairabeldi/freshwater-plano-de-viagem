@@ -1,0 +1,5 @@
+# Endereco curto do cliente -> arquivo do plano (reescrita, a URL nao muda)
+/S631    /plano_viagem_S631.html    200
+/S637    /plano_viagem_S637.html    200
+
+# Nova cotacao: basta duplicar uma linha acima
